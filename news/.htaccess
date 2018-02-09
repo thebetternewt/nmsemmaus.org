@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Please Login"
+AuthUserFile /news/.htpasswd
+require valid-user
